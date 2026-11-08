@@ -1,4 +1,4 @@
 # ratulghosh.demo
 This is my first Git repository.
 <br>
-Author - Ratul ghosh
+Author - Ratul ghosh(smart)
